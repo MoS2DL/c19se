@@ -1,0 +1,83 @@
+stockholm:
+    url: "https://c19.se/Sweden/Stockholm"
+    file_prefix: "01_stockholm"
+
+vastragotaland:
+    url: "https://c19.se/Sweden/V%C3%A4stra%20G%C3%B6taland"
+    file_prefix: "02_vastragotaland"
+
+ostergotland:
+    url: "https://c19.se/Sweden/%C3%96sterg%C3%B6tland"
+    file_prefix: "03_ostergotland"
+
+skane:
+    url: "https://c19.se/Sweden/Sk%C3%A5ne"
+    file_prefix: "04_skane"
+
+sormland:
+    url: "https://c19.se/Sweden/S%C3%B6rmland"
+    file_prefix: "05_sormland"
+
+uppsala:
+    url: "https://c19.se/Sweden/Uppsala"
+    file_prefix: "06_uppsala"
+
+jonkoping:
+    url: "https://c19.se/Sweden/J%C3%B6nk%C3%B6ping"
+    file_prefix: "07_jonkoping"
+
+halland:
+    url: "https://c19.se/Sweden/Halland"
+    file_prefix: "08_halland"
+
+dalarna:
+    url: "https://c19.se/Sweden/Dalarna"
+    file_prefix: "09_dalarna"
+
+orebro:
+    url: "https://c19.se/Sweden/%C3%96rebro"
+    file_prefix: "10_orebro"
+
+jamtland:
+    url: "https://c19.se/Sweden/J%C3%A4mtland"
+    file_prefix: "11_jamtland"
+
+gavleborg:
+    url: "https://c19.se/Sweden/G%C3%A4vleborg"
+    file_prefix: "12_gavleborg"
+
+vastmanland:
+    url: "https://c19.se/Sweden/V%C3%A4stmanland"
+    file_prefix: "13_vastmanland"
+
+varmland:
+    url: "https://c19.se/Sweden/V%C3%A4rmland"
+    file_prefix: "14_varmland"
+
+vasterbotten:
+    url: "https://c19.se/Sweden/V%C3%A4sterbotten"
+    file_prefix: "15_vasterbotten"
+
+norrbotten:
+    url: "https://c19.se/Sweden/Norrbotten"
+    file_prefix: "16_norrbotten"
+
+kalmar:
+    url: "https://c19.se/Sweden/Kalmar"
+    file_prefix: "17_kalmar"
+
+kronoberg:
+    url: "https://c19.se/Sweden/Kronoberg"
+    file_prefix: "18_kronoberg"
+
+vasternorrland:
+    url: "https://c19.se/Sweden/V%C3%A4sternorrland"
+    file_prefix: "19_vasternorrland"
+
+blekinge:
+    url: "https://c19.se/Sweden/Blekinge"
+    file_prefix: "20_blekinge"
+
+gotland:
+    url: "https://c19.se/Sweden/Gotland"
+    file_prefix: "21_gotland"
