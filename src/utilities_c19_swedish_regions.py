@@ -16,8 +16,11 @@ def scrape_data_c19_sweden_region(url):
     data_list = []
     for line in script_split_newline:
         if 'data' in line:
-            data = [int(x) for x in line[7:-1].split(',')]
-            data_list.append(data)
+            try:
+                data = [int(x) for x in line[7:-1].split(',')]
+                data_list.append(data)
+            except ValueError:
+                continue
 
     data = {
         'confirmed': data_list[0],
