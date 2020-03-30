@@ -7,6 +7,11 @@ import pathlib
 import requests
 
 
+START_DATE = '2020-03-02'
+NOW = datetime.now()
+END_DATE = f"{NOW.year}-{NOW.month:02d}-{NOW.day:02d}"
+
+
 def scrape_data_c19_sweden_region(url):
     soup = BeautifulSoup(requests.get(url).content, "html.parser")
     scripts = soup.find_all("script")
@@ -31,18 +36,23 @@ def scrape_data_c19_sweden_region(url):
     return data
 
 
-def generate_csv(data, file_prefix, outdir):
+def create_dataframe(data, name):
+    dates = pd.date_range(start=START_DATE, end=END_DATE)
+    df = pd.DataFrame(
+        data=data,
+        index=dates,
+        dtype='Int64'
+    )
 
-    now = datetime.now()
-    date = f"{now.year}-{now.month:02d}-{now.day:02d}"
+    df['region'] = name
 
-    START_DATE = '2020-03-02'
-    END_DATE = date
+    return df
+
+
+def generate_csv(data, file_prefix, outdir, name=None):
 
     dates = pd.date_range(start=START_DATE, end=END_DATE)
-
-
-    NOW = f"{date}.{now.hour:02d}:{now.minute:02d}"
+    NOW = f"{END_DATE}.{NOW.hour:02d}:{NOW.minute:02d}"
     filename = f"{file_prefix}_{NOW}.csv"
     filepath = outdir / filename
 
@@ -51,6 +61,9 @@ def generate_csv(data, file_prefix, outdir):
         index=dates,
         dtype='Int64'
     )
+
+    if name:
+        df['region'] = name
 
     df.to_csv(filepath, index=True, index_label='date')
 
