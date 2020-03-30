@@ -1,720 +1,538 @@
 whole_world:
     url: "https://c19.se/global"
-    file_prefix: "00_global"
 
 united_states:
     url: "https://c19.se/US"
-    file_prefix: "01_us"
 
 italy:
     url: "https://c19.se/Italy"
-    file_prefix: "02_italy"
 
 china:
     url: "https://c19.se/China"
-    file_prefix: "03_china"
 
 spain:
     url: "https://c19.se/Spain"
-    file_prefix: "04_spain"
 
 germany:
     url: "https://c19.se/Germany"
-    file_prefix: "05_germany"
 
 france:
     url: "https://c19.se/France"
-    file_prefix: "06_france"
 
 iran:
     url: "https://c19.se/Iran"
-    file_prefix: "07_iran"
 
 united_kingdom:
     url: "https://c19.se/United%20Kingdom"
-    file_prefix: "08_united_kingdom"
 
 switzerland:
     url: "https://c19.se/Switzerland"
-    file_prefix: "09_switzerland"
 
 netherlands:
     url: "https://c19.se/Netherlands"
-    file_prefix: "10_netherlands"
 
 belgium:
     url: "https://c19.se/Belgium"
-    file_prefix: "11_belgium"
 
 south_korea:
     url: "https://c19.se/Korea,%20South"
-    file_prefix: "12_south_korea"
 
 turkey:
     url: "https://c19.se/Turkey"
-    file_prefix: "13_turkey"
 
 austria:
     url: "https://c19.se/Austria"
-    file_prefix: "14_austria"
 
 canada:
     url: "https://c19.se/Canada"
-    file_prefix: "15_canada"
 
 portugal:
     url: "https://c19.se/Portugal"
-    file_prefix: "16_portugal"
 
 israel:
     url: "https://c19.se/Israel"
-    file_prefix: "17_israel"
 
 norway:
     url: "https://c19.se/Norway"
-    file_prefix: "18_norway"
 
 brazil:
     url: "https://c19.se/Brazil"
-    file_prefix: "19_brazil"
 
 australia:
     url: "https://c19.se/Australia"
-    file_prefix: "20_australia"
 
 sweden:
     url: "https://c19.se/Sweden"
-    file_prefix: "21_sweden"
 
 czechia:
     url: "https://c19.se/Czechia"
-    file_prefix: "22_czechia"
 
 ireland:
     url: "https://c19.se/Ireland"
-    file_prefix: "23_ireland"
 
 denmark:
     url: "https://c19.se/Denmark"
-    file_prefix: "24_denmark"
 
 malaysia:
     url: "https://c19.se/Malaysia"
-    file_prefix: "25_malaysia"
 
 chile:
     url: "https://c19.se/Chile"
-    file_prefix: "26_chile"
 
 ecuador:
     url: "https://c19.se/Ecuador"
-    file_prefix: "27_ecuador"
 
 luxembourg:
     url: "https://c19.se/Luxembourg"
-    file_prefix: "28_luxembourg"
 
 poland:
     url: "https://c19.se/Poland"
-    file_prefix: "29_poland"
 
 japan:
     url: "https://c19.se/Japan"
-    file_prefix: "30_japan"
 
 romania:
     url: "https://c19.se/Romania"
-    file_prefix: "31_romania"
 
 pakistan:
     url: "https://c19.se/Pakistan"
-    file_prefix: "32_pakistan"
 
 russia:
     url: "https://c19.se/Russia"
-    file_prefix: "33_russia"
 
 thailand:
     url: "https://c19.se/Thailand"
-    file_prefix: "34_thailand"
 
 philippines:
     url: "https://c19.se/Philippines"
-    file_prefix: "35_philippines"
 
 saudi_arabia:
     url: "https://c19.se/Saudi%20Arabia"
-    file_prefix: "36_saudi_arabia"
 
 indonesia:
     url: "https://c19.se/Indonesia"
-    file_prefix: "37_indonesia"
 
 south_africa:
     url: "https://c19.se/South%20Africa"
-    file_prefix: "38_south_africa"
 
 finland:
     url: "https://c19.se/Finland"
-    file_prefix: "39_finland"
 
 greece:
     url: "https://c19.se/Greece"
-    file_prefix: "40_greece"
 
 india:
     url: "https://c19.se/India"
-    file_prefix: "41_india"
 
 iceland:
     url: "https://c19.se/Iceland"
-    file_prefix: "42_iceland"
 
 mexico:
     url: "https://c19.se/Mexico"
-    file_prefix: "43_mexico"
 
 panama:
-        url: "https://c19.se/Panama"
-        file_prefix: "44_panama"
+    url: "https://c19.se/Panama"
 
 dominican_republic:
     url: "https://c19.se/Dominican%20Republic"
-    file_prefix: "45_dominican_republic"
 
 peru:
     url: "https://c19.se/Peru"
-    file_prefix: "46_peru"
 
 singapore:
     url: "https://c19.se/Singapore"
-    file_prefix: "47_singapore"
 
 argentina:
     url: "https://c19.se/Argentina"
-    file_prefix: "48_argentina"
 
 serbia:
     url: "https://c19.se/Serbia"
-    file_prefix: "49_serbia"
 
 slovenia:
     url: "https://c19.se/Slovenia"
-    file_prefix: "50_slovenia"
 
 estonia:
     url: "https://c19.se/Estonia"
-    file_prefix: "51_estonia"
 
 croatia:
     url: "https://c19.se/Croatia"
-    file_prefix: "52_croatia"
 
 diamond_princess:
     url: "https://c19.se/Diamond%20Princess"
-    file_prefix: "53_diamond_princess"
 
 cruise_ship:
     url: "https://c19.se/Cruise%20Ship"
-    file_prefix: "54_cruise_ship"
 
 colombia:
     url: "https://c19.se/Colombia"
-    file_prefix: "55_colombia"
 
 qatar:
     url: "https://c19.se/Qatar"
-    file_prefix: "56_qatar"
 
 egypt:
     url: "https://c19.se/Egypt"
-    file_prefix: "57_egypt"
 
 new_zealand:
     url: "https://c19.se/New%20Zealand"
-    file_prefix: "58_new_zealand"
 
 united_arab_emirates:
     url: "https://c19.se/United%20Arab%20Emirates"
-    file_prefix: "59_united_arab_emirates"
 
 iraq:
     url: "https://c19.se/Iraq"
-    file_prefix: "60_iraq"
 
 morocco:
     url: "https://c19.se/Morocco"
-    file_prefix: "61_morocco"
 
 bahrain:
     url: "https://c19.se/Bahrain"
-    file_prefix: "62_bahrain"
 
 algeria:
     url: "https://c19.se/Algeria"
-    file_prefix: "63_algeria"
 
 lithuania:
     url: "https://c19.se/Lithuania"
-    file_prefix: "64_lithuania"
 
 ukraine:
     url: "https://c19.se/Ukraine"
-    file_prefix: "65_ukraine"
 
 hungary:
     url: "https://c19.se/Hungary"
-    file_prefix: "66_hungary"
 
 lebanon:
     url: "https://c19.se/Lebanon"
-    file_prefix: "67_lebanon"
 
 armenia:
     url: "https://c19.se/Armenia"
-    file_prefix: "68_armenia"
 
 latvia:
     url: "https://c19.se/Latvia"
-    file_prefix: "69_latvia"
 
 bulgaria:
     url: "https://c19.se/Bulgaria"
-    file_prefix: "70_bulgaria"
 
 bosnia_and_herzegovina:
     url: "https://c19.se/Bosnia%20and%20Herzegovina"
-    file_prefix: "71_bosnia_and_herzegovina"
 
 andorra:
     url: "https://c19.se/Andorra"
-    file_prefix: "72_andorra"
 
 costa_rica:
     url: "https://c19.se/Costa%20Rica"
-    file_prefix: "73_costa_rica"
 
 slovakia:
     url: "https://c19.se/Slovakia"
-    file_prefix: "74_slovakia"
 
 tunisia:
     url: "https://c19.se/Tunisia"
-    file_prefix: "75_tunisia"
 
 taiwan:
     url: "https://c19.se/Taiwan*"
-    file_prefix: "76_taiwan"
-
 uruguay:
     url: "https://c19.se/Uruguay"
-    file_prefix: "77_uruguay"
 
 kazakhstan:
     url: "https://c19.se/Kazakhstan"
-    file_prefix: "78_kazakhstan"
 
 moldova:
     url: "https://c19.se/Moldova"
-    file_prefix: "79_moldova"
 
 jordan:
     url: "https://c19.se/Jordan"
-    file_prefix: "80_jordan"
 
 north_macedonia:
     url: "https://c19.se/North%20Macedonia"
-    file_prefix: "81_north_macedonia"
 
 kuwait:
     url: "https://c19.se/Kuwait"
-    file_prefix: "82_kuwait"
 
 san_marino:
     url: "https://c19.se/San%20Marino"
-    file_prefix: "83_san_marino"
 
 burkina_faso:
     url: "https://c19.se/Burkina%20Faso"
-    file_prefix: "84_bukina_faso"
 
 cyprus:
     url: "https://c19.se/Cyprus"
-    file_prefix: "85_"
 
 albania:
     url: "https://c19.se/Albania"
-    file_prefix: "86_albania"
-
 
 azerbaijan:
     url: "https://c19.se/Azerbaijan"
-    file_prefix: "87_azerbaijan"
 
 vietnam:
     url: "https://c19.se/Vietnam"
-    file_prefix: "88_vietnam"
 
 oman:
     url: "https://c19.se/Oman"
-    file_prefix: "89_oman"
 
 cote_d_ivoire:
     url: "https://c19.se/Cote%20d%27Ivoire"
-    file_prefix: "90_cote_d_ivoire"
 
 ghana:
     url: "https://c19.se/Ghana"
-    file_prefix: "91_ghana"
 
 malta:
     url: "https://c19.se/Malta"
-    file_prefix: "92_malta"
 
 uzbekistan:
     url: "https://c19.se/Uzbekistan"
-    file_prefix: "93_uzbekistan"
 
 senegal:
     url: "https://c19.se/Senegal"
-    file_prefix: "94_senegal"
 
 cameroon:
     url: "https://c19.se/Cameroon"
-    file_prefix: "95_cameroon"
 
 cuba:
     url: "https://c19.se/Cuba"
-    file_prefix: "96_cuba"
 
 honduras:
     url: "https://c19.se/Honduras"
-    file_prefix: "97_honduras"
 
 brunei:
     url: "https://c19.se/Brunei"
-    file_prefix: "98_brunei"
 
 sri_lanka:
     url: "https://c19.se/Sri%20Lanka"
-    file_prefix: "99_sri_lanka"
 
 afghanistan:
     url: "https://c19.se/Afghanistan"
-    file_prefix: "100_afghanistan"
 
 venezuela:
     url: "https://c19.se/Venezuela"
-    file_prefix: "101_venezuela"
 
 nigeria:
     url: "https://c19.se/Nigeria"
-    file_prefix: "102_nigeria"
 
 west_bank_and_gaza:
     url: "https://c19.se/West%20Bank%20and%20Gaza"
-    file_prefix: "103_west_bank_and_gaza"
 
 mauritius:
     url: "https://c19.se/Mauritius"
-    file_prefix: "104_mauritius"
 
 cambodia:
     url: "https://c19.se/Cambodia"
-    file_prefix: "105_cambodia"
 
 georgia:
     url: "https://c19.se/Georgia"
-    file_prefix: "106_georgia"
 
 bolivia:
     url: "https://c19.se/Bolivia"
-    file_prefix: "107_bolivia"
 
 belarus:
     url: "https://c19.se/Belarus"
-    file_prefix: "108_belarus"
 
 kosovo:
     url: "https://c19.se/Kosovo"
-    file_prefix: "109_kosovo"
 
 montenegro:
     url: "https://c19.se/Montenegro"
-    file_prefix: "110_montenegro"
 
 kyrgyzstan:
     url: "https://c19.se/Kyrgyzstan"
-    file_prefix: "111_kyrguzstan"
 
 congo_kinshasa:
     url: "https://c19.se/Congo%20%28Kinshasa%29"
-    file_prefix: "112_congo_kinshasa"
 
 rwanda:
     url: "https://c19.se/Rwanda"
-    file_prefix: "113_rwanda"
 
 trinidad_and_tobago:
     url: "https://c19.se/Trinidad%20and%20Tobago"
-    file_prefix: "114_trinidad_and_tobago"
 
 paraguay:
     url: "https://c19.se/Paraguay"
-    file_prefix: "115_paraguay"
 
 the_west_bank_and_gaza:
     url: "https://c19.se/The%20West%20Bank%20and%20Gaza"
-    file_prefix: "116_the_west_bank_and_gaza"
 
 liechtenstein:
     url: "https://c19.se/Liechtenstein"
-    file_prefix: "117_liechtenstein"
 
 bangladesh:
     url: "https://c19.se/Bangladesh"
-    file_prefix: "118_bangladesh"
 
 monaco:
     url: "https://c19.se/Monaco"
-    file_prefix: "119_monaco"
 
 kenya:
     url: "https://c19.se/Kenya"
-    file_prefix: "120_kenya"
 
 barbados:
     url: "https://c19.se/Barbados"
-    file_prefix: "121_barbados"
 
 madagascar:
-        url: "https://c19.se/Madagascar"
-        file_prefix: "122_madagascar"
+    url: "https://c19.se/Madagascar"
 
 guatemala:
     url: "https://c19.se/Guatemala"
-    file_prefix: "123_guatemala"
 
 uganda:
     url: "https://c19.se/Uganda"
-    file_prefix: "124_uganda"
 
 jamaica:
     url: "https://c19.se/Jamaica"
-    file_prefix: "125_jamaica"
 
 togo:
     url: "https://c19.se/Togo"
-    file_prefix: "126_togo"
 
 el_salvador:
     url: "https://c19.se/El%20Salvador"
-    file_prefix: "127_el_salvador"
 
 zambia:
     url: "https://c19.se/Zambia"
-    file_prefix: "129_zambia"
 
 ethiopia:
     url: "https://c19.se/Ethiopia"
-    file_prefix: "130_ethiopia"
 
 guyana:
     url: "https://c19.se/Guyana"
-    file_prefix: "131_guyana"
 
 congo_brazzaville:
     url: "https://c19.se/Congo%20%28Brazzaville%29"
-    file_prefix: "132_congo_brazzaville"
 
 niger:
     url: "https://c19.se/Niger"
-    file_prefix: "133_niger"
 
 mali:
     url: "https://c19.se/Mali"
-    file_prefix: "134_mali"
 
 djibouti:
     url: "https://c19.se/Djibouti"
-    file_prefix: "135_djibouti"
 
 maldives:
     url: "https://c19.se/Maldives"
-    file_prefix: "136_maldives"
 
 guinea:
     url: "https://c19.se/Guinea"
-    file_prefix: "137_quinea"
 
 haiti:
     url: "https://c19.se/Haiti"
-    file_prefix: "138_haiti"
 
 bahamas:
     url: "https://c19.se/Bahamas"
-    file_prefix: "139_bahamas"
 
 tanzania:
     url: "https://c19.se/Tanzania"
-    file_prefix: "140_tanzania"
 
 saint_lucia:
     url: "https://c19.se/Saint%20Lucia"
-    file_prefix: "141_saint_lucia"
 
 equatorial_guinea:
     url: "https://c19.se/Equatorial%20Guinea"
-    file_prefix: "142_equatorial_guinea"
 
 eritrea:
     url: "https://c19.se/Eritrea"
-    file_prefix: "143_eritrea"
 
 mongolia:
     url: "https://c19.se/Mongolia"
-    file_prefix: "144_mongolia"
 
 namibia:
     url: "https://c19.se/Namibia"
-    file_prefix: "145_namibia"
 
 dominica:
     url: "https://c19.se/Dominica"
-    file_prefix: "146_dominica"
 
 burma:
     url: "https://c19.se/Burma"
-    file_prefix: "147_burma"
 
 syria:
     url: "https://c19.se/Syria"
-    file_prefix: "148_syria"
 
 grenada:
     url: "https://c19.se/Grenada"
-    file_prefix: "149_grenada"
 
 eswatini:
     url: "https://c19.se/Eswatini"
-    file_prefix: "150_eswatini"
 
 suriname:
     url: "https://c19.se/Suriname"
-    file_prefix: "151_suriname"
 
 seychelles:
     url: "https://c19.se/Seychelles"
-    file_prefix: "152_seychelles"
 
 laos:
     url: "https://c19.se/Laos"
-    file_prefix: "153_laos"
 
 libya:
     url: "https://c19.se/Libya"
-    file_prefix: "154_libya"
 
 mozambique:
     url: "https://c19.se/Mozambique"
-    file_prefix: "155_mozambique"
 
 zimbabwe:
     url: "https://c19.se/Zimbabwe"
-    file_prefix: "156_zimbabwe"
 
 gabon:
     url: "https://c19.se/Gabon"
-    file_prefix: "157_gabon"
 
 antigua_and_barbuda:
     url: "https://c19.se/Antigua%20and%20Barbuda"
-    file_prefix: "158_antiqua_and_barbuda"
 
 angola:
     url: "https://c19.se/Angola"
-    file_prefix: "159_angola"
 
 sudan:
     url: "https://c19.se/Sudan"
-    file_prefix: "160_sudan"
 
 cape_verde:
     url: "https://c19.se/Cape%20Verde"
-    file_prefix: "161_cape_verde"
 
 holy_see:
     url: "https://c19.se/Holy%20See"
-    file_prefix: "162_holy_see"
 
 benin:
     url: "https://c19.se/Benin"
-    file_prefix: "163_benin"
 
 nepal:
     url: "https://c19.se/Nepal"
-    file_prefix: "164_nepal"
 
 mauritania:
     url: "https://c19.se/Mauritania"
-    file_prefix: "165_mauritania"
 
 fiji:
     url: "https://c19.se/Fiji"
-    file_prefix: "166_fiji"
 
 nicaragua:
     url: "https://c19.se/Nicaragua"
-    file_prefix: "167_nicaragua"
 
 gambia:
     url: "https://c19.se/Gambia"
-    file_prefix: "168_gambia"
 
 bhutan:
     url: "https://c19.se/Bhutan"
-    file_prefix: "169_bhutan"
 
 somalia:
     url: "https://c19.se/Somalia"
-    file_prefix: "170_somalia"
 
 chad:
     url: "https://c19.se/Chad"
-    file_prefix: "171_chad"
 
 central_african_republic:
     url: "https://c19.se/Central%20African%20Republic"
-    file_prefix: "172_central_african_republic"
 
 belize:
     url: "https://c19.se/Belize"
-    file_prefix: "173_belize"
 
 liberia:
     url: "https://c19.se/Liberia"
-    file_prefix: "174_liberia"
 
 guinea_bissau:
     url: "https://c19.se/Guinea-Bissau"
-    file_prefix: "175_guinea_bissau"
 
 saint_kitts_and_nevis:
     url: "https://c19.se/Saint%20Kitts%20and%20Nevis"
-    file_prefix: "176_saint_kitts_nevis"
 
 ms_zaandam:
     url: "https://c19.se/MS%20Zaandam"
-    file_prefix: "177_ms_zaandam"
 
 east_timor:
     url: "https://c19.se/East%20Timor"
-    file_prefix: "178_east_timor"
 
 saint_vincent_and_the_grenadines:
     url: "https://c19.se/Saint%20Vincent%20and%20the%20Grenadines"
-    file_prefix: "179_saint_vincent_and_the_grenadines"
 
 papua_new_guinea:
     url: "https://c19.se/Papua%20New%20Guinea"
-    file_prefix: "180_papua_new_guinea"

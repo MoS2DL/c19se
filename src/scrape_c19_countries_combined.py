@@ -29,7 +29,6 @@ def main():
     dataframes = []  # Collect all, save region as column
     for country in countries:
         url = configuration[country]['url']
-        file_prefix = configuration[country]['file_prefix']
         data = scrape_data_c19_sweden_region(url)
 
         dataframes.append(create_dataframe(data, country))

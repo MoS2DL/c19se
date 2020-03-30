@@ -1,15 +1,15 @@
 # c19se
 
-Collection of scripts for scraping Swedish region data from c19.se.
+Collection of scripts for scraping data from c19.se.
 
-The scraping writes to a directory under `data/scraped_c19` named with the date and time at scraping.
+The scripts writes to a directory under `data/scraped_c19` named with the date and time at scraping.
 
-The urls are defined in a the yaml-file `configuration/swedish_regions.yml`.
-
+The urls are defined in a the yaml-files `configuration/swedish_regions.yml` and `configuration/countries.yml`.
 
 ### Usage
 
-Just run the `src/scrape_c19_swedish_regions.py` script from the root directory.
+Run the `src/scrape_c19_swedish_regions_combined.py` to scrape all Swedish regions into a single csv file. Or `src/scrape_c19_countries_combined` to scrape all countries into a single csv file.
+
 
 ### External dependencies
 
