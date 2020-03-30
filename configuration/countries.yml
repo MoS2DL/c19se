@@ -7,9 +7,9 @@ world:
     file_prefix: "00_global"
 
 us:
-    url: "c19.se/US"
+    url: "https://c19.se/US"
     file_prefix: "01_us"
 
 italy:
-    url: "c19.se/Italy"
+    url: "https://c19.se/Italy"
     file_prefix: "02_italy"
