@@ -1,12 +1,8 @@
-nation:
-    url: "https://c19.se"
-    file_prefix: "00_sweden"
-
-world:
+whole_world:
     url: "https://c19.se/global"
     file_prefix: "00_global"
 
-us:
+united_states:
     url: "https://c19.se/US"
     file_prefix: "01_us"
 
