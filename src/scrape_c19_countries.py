@@ -25,6 +25,7 @@ def main():
         os.makedirs(outdir)
 
     regions = list(configuration.keys())
+    print(regions)
     for region in regions:
         url = configuration[region]['url']
         file_prefix = configuration[region]['file_prefix']

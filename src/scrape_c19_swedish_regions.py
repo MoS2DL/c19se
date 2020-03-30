@@ -20,7 +20,7 @@ def main():
     date = f"{now.year}-{now.month:02d}-{now.day:02d}"
     NOW = f"{date}.{now.hour:02d}:{now.minute:02d}"
 
-    outdir = pathlib.Path.cwd() / "data" / "scraped_c19" / NOW
+    outdir = pathlib.Path.cwd() / "data" / "scraped_c19" / "Swedish_regions" / NOW
     if not os.path.isdir(outdir):
         os.makedirs(outdir)
 
