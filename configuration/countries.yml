@@ -1,0 +1,15 @@
+nation:
+    url: "https://c19.se"
+    file_prefix: "00_sweden"
+
+world:
+    url: "https://c19.se/global"
+    file_prefix: "00_global"
+
+us:
+    url: "c19.se/US"
+    file_prefix: "01_us"
+
+italy:
+    url: "c19.se/Italy"
+    file_prefix: "02_italy"

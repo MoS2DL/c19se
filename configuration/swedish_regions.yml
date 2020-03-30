@@ -81,11 +81,3 @@ blekinge:
 gotland:
     url: "https://c19.se/Sweden/Gotland"
     file_prefix: "21_gotland"
-
-nation:
-    url: "https://c19.se"
-    file_prefix: "00_sweden"
-
-world:
-    url: "https://c19.se/global"
-    file_prefix: "00_global"
