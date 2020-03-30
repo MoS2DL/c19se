@@ -6,7 +6,7 @@ import pandas as pd
 import pathlib
 import yaml
 
-from utilities_c19_swedish_regions import (
+from utilities_c19 import (
     scrape_data_c19_sweden_region,
     create_dataframe,
     generate_csv
