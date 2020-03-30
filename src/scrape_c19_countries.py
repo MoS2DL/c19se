@@ -24,11 +24,11 @@ def main():
     if not os.path.isdir(outdir):
         os.makedirs(outdir)
 
-    regions = list(configuration.keys())
-    print(regions)
-    for region in regions:
-        url = configuration[region]['url']
-        file_prefix = configuration[region]['file_prefix']
+    countries = list(configuration.keys())
+    print(countries)
+    for country in countries:
+        url = configuration[country]['url']
+        file_prefix = configuration[country]['file_prefix']
         data = scrape_data_c19_sweden_region(url)
 
         generate_csv(data, file_prefix, outdir)
